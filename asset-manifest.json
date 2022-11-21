@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.25b038e2.js",
-    "static/js/787.4660b7e7.chunk.js": "/static/js/787.4660b7e7.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.5257cdef.css",
+    "main.js": "/static/js/main.03abde9b.js",
+    "static/js/787.24db7489.chunk.js": "/static/js/787.24db7489.chunk.js",
+    "static/media/pizama_party_2022.jpg": "/static/media/pizama_party_2022.704c704d553fc4ffb54a.jpg",
+    "static/media/bajeroland-2019.jpg": "/static/media/bajeroland-2019.97c08ea4ae9f43b6ba1f.jpg",
+    "static/media/otrzesiny.jpg": "/static/media/otrzesiny.61c69aef9084d21baefd.jpg",
+    "static/media/bajer.png": "/static/media/bajer.982456b885911913f420.png",
+    "static/media/BajerFont_pl.otf": "/static/media/BajerFont_pl.1e42318baf391cb5526f.otf",
+    "static/media/stachudj.jpg": "/static/media/stachudj.450bd6efb17210026cc1.jpg",
+    "static/media/BajerAnon.png": "/static/media/BajerAnon.22d7f1c88f37a09ab75d.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.25b038e2.js.map": "/static/js/main.25b038e2.js.map",
-    "787.4660b7e7.chunk.js.map": "/static/js/787.4660b7e7.chunk.js.map"
+    "main.5257cdef.css.map": "/static/css/main.5257cdef.css.map",
+    "main.03abde9b.js.map": "/static/js/main.03abde9b.js.map",
+    "787.24db7489.chunk.js.map": "/static/js/787.24db7489.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.25b038e2.js"
+    "static/css/main.5257cdef.css",
+    "static/js/main.03abde9b.js"
   ]
 }
